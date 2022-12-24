@@ -1,6 +1,5 @@
 /*
 Copyright © 2022 NAME HERE <EMAIL ADDRESS>
-
 */
 package cmd
 
@@ -10,7 +9,6 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// hogeCmd represents the hoge command
 var hogeCmd = &cobra.Command{
 	Use:   "hoge",
 	Short: "A brief description of your command",
