@@ -1,4 +1,4 @@
-module sample-cli
+module github.com/imagepit/go-sample-cli
 
 go 1.19
 

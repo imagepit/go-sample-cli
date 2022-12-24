@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "sample-cli/cmd"
+import "github.com/imagepit/go-sample-cli/cmd"
 
 func main() {
 	cmd.Execute()
